@@ -1,0 +1,23 @@
+{
+  "name": "project-linked-list",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dependency1": "^1.0.0",
+    "dependency2": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceygram/Project-Linked-List.git"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aceygram/Project-Linked-List/issues"
+  },
+  "homepage": "https://github.com/aceygram/Project-Linked-List#readme"
+}
